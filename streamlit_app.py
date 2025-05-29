@@ -1,5 +1,5 @@
 
-   "outputs": [
+"outputs": [
     {
      "ename": "ModuleNotFoundError",
      "evalue": "No module named 'yfinance'",
